@@ -1,0 +1,1 @@
+myself romit pal today i am tyying to bypass the specfic error that is called 401 error or that is most commonly known as authentication error that can be easily bypassed by manipulating headers to the webpage . 
